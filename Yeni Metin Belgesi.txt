@@ -1,0 +1,88 @@
+
+Please select...
+1.)Print text one...
+2.)Print text two...
+3.)Find the number of common words and the number of common 2-grams...
+0 is exit.
+Enter your choice : 1
+
+Term Frequency is a feature representation technique. Term frequency is often us
+ed in text mining field. Term Frequency measures how frequently a term occurs in
+ a document.
+
+        ---     ---     ---     ---     ---     ---     ---     ---
+
+Please select...
+1.)Print text one...
+2.)Print text two...
+3.)Find the number of common words and the number of common 2-grams...
+0 is exit.
+Enter your choice : 2
+
+Term Frequency Inverse Document Frequency is another feature representation tech
+nique. Term Frequency Inverse Document Frequency is often used in text mining fi
+eld. Term Frequency Inverse Document Frequency measures how important a term is.
+
+
+        ---     ---     ---     ---     ---     ---     ---     ---
+
+Please select...
+1.)Print text one...
+2.)Print text two...
+3.)Find the number of common words and the number of common 2-grams...
+0 is exit.
+Enter your choice : 3
+
+
+                ...First text was processed...
+
+                ...Second text was processed...
+The common words are:
+
+a
+document
+feature
+field
+frequency
+how
+in
+is
+measures
+mining
+often
+representation
+technique
+term
+text
+used
+
+
+The number of common words: 16
+The common 2-grams are :
+
+
+a term
+feature representation
+field term
+frequency is
+frequency measures
+in text
+is often
+measures how
+mining field
+often used
+representation technique
+technique term
+term frequency
+text mining
+used in
+
+The number of common 2-grams : 15
+
+
+Please select...
+1.)Print text one...
+2.)Print text two...
+3.)Find the number of common words and the number of common 2-grams...
+0 is exit.
+Enter your choice :
